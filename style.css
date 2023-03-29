@@ -1,0 +1,68 @@
+body {
+    background-image: url(johny.jpg);
+}
+h1 {
+
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    background-color:rgb(60, 57, 77);
+    border: 5px rgb(15, 15, 32) solid;
+    margin-left:520px;
+    margin-right: 500px;
+    padding: 10px;
+    border-radius: 30px; 
+}
+div {
+    color:rgb(0, 0, 0);
+    background-color: rgb(224, 218, 247);
+    border: 1px black solid;
+}
+h1 {color: #ffffff;}
+p {
+    color:#000000;
+    background-color:#605c6d;
+    opacity: 0.5;
+    padding: 10px;
+    border: 10px;
+    border-radius: 20px;
+
+}
+p:hover {
+    opacity: 1;
+    color:#ffffff;
+}
+h4 {color:#ffffff;}
+ul {
+    color:#000000;
+    background-color:#605c6d;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+th {color:#000000;}
+td {color:#000000;}
+tbody {background-color:#9089aa; opacity: 0.5;}
+thead {background-color: #9089aa; opacity: 0.5;}
+thead:hover {opacity: 1;color:#ffffff}
+tbody:hover {opacity: 1;color:#ffffff}
+ul:hover {
+    color:#ffffff;
+    opacity: 1;
+}
+#detektivi {
+    background-color:#a29bb8;
+    margin-left: 700px;
+    padding: 5px;
+    opacity: 0.5;
+    border-radius: 20px; 
+}
+#detektivi:hover {
+    opacity: 1;
+    margin-bottom:5px;
+}
+table {
+    margin-left:680px;
+    margin-top: 10px;
+}
+img {
+    margin-left: 500px;
+}
